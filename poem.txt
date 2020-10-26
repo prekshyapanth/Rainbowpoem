@@ -1,6 +1,7 @@
 The rainbow:
-a. Purple
+a.Purple
 b.Red
-c.orange
-d. Blue
-e. Pink
+c.Orange
+d.Blue
+e.Pink
+f.Green 
